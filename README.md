@@ -17,6 +17,8 @@ Everything, (messages, hosted worlds, friend requests etc.) ever stored from Ess
 > - ...
 > - Decompile, reverse engineer, or disassemble any software or other products or processes accessible through the Platform;
 
+taken from [Essential's TOS](https://essential.gg/terms-of-use)
+
 Uhh, yes I did. But does it look like I care anymore because of how unsafe the Essential mod is? If you'd like to see, the whole 2 files related are in the source of this GitHub.
 
 ## What should you do?
